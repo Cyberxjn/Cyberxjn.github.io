@@ -67,7 +67,7 @@ You can run this project locally with simple steps:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repository-name.git
+https://github.com/Cyberxjn/Cyberxjn.github.io.git
 ```
 
 2. Open the project folder
