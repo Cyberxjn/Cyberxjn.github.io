@@ -75,7 +75,7 @@ https://github.com/Cyberxjn/Cyberxjn.github.io.git
 3. Run the website by opening:
 
 ```
-index.html
+Cyberxjn.github.io
 ```
 
 in your browser.
